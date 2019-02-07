@@ -1,0 +1,30 @@
+C:\Desktop\Labs\CG\mai_labs-master\5sem\CG\lab2CG\lab2CG\bin\Debug\lab2CG.exe.config
+C:\Desktop\Labs\CG\mai_labs-master\5sem\CG\lab2CG\lab2CG\bin\Debug\lab2CG.exe
+C:\Desktop\Labs\CG\mai_labs-master\5sem\CG\lab2CG\lab2CG\bin\Debug\lab2CG.pdb
+C:\Desktop\Labs\CG\mai_labs-master\5sem\CG\lab2CG\lab2CG\obj\Debug\lab2CG.csprojResolveAssemblyReference.cache
+C:\Desktop\Labs\CG\mai_labs-master\5sem\CG\lab2CG\lab2CG\obj\Debug\lab2CG.Form1.resources
+C:\Desktop\Labs\CG\mai_labs-master\5sem\CG\lab2CG\lab2CG\obj\Debug\lab2CG.Properties.Resources.resources
+C:\Desktop\Labs\CG\mai_labs-master\5sem\CG\lab2CG\lab2CG\obj\Debug\lab2CG.csproj.GenerateResource.cache
+C:\Desktop\Labs\CG\mai_labs-master\5sem\CG\lab2CG\lab2CG\obj\Debug\lab2CG.csproj.CoreCompileInputs.cache
+C:\Desktop\Labs\CG\mai_labs-master\5sem\CG\lab2CG\lab2CG\obj\Debug\lab2CG.exe
+C:\Desktop\Labs\CG\mai_labs-master\5sem\CG\lab2CG\lab2CG\obj\Debug\lab2CG.pdb
+C:\Desktop\Labs\CG\Хоккеист\lab2\lab2CG\bin\Debug\lab2CG.exe.config
+C:\Desktop\Labs\CG\Хоккеист\lab2\lab2CG\bin\Debug\lab2CG.exe
+C:\Desktop\Labs\CG\Хоккеист\lab2\lab2CG\bin\Debug\lab2CG.pdb
+C:\Desktop\Labs\CG\Хоккеист\lab2\lab2CG\obj\Debug\lab2CG.csprojResolveAssemblyReference.cache
+C:\Desktop\Labs\CG\Хоккеист\lab2\lab2CG\obj\Debug\lab2CG.Form1.resources
+C:\Desktop\Labs\CG\Хоккеист\lab2\lab2CG\obj\Debug\lab2CG.Properties.Resources.resources
+C:\Desktop\Labs\CG\Хоккеист\lab2\lab2CG\obj\Debug\lab2CG.csproj.GenerateResource.cache
+C:\Desktop\Labs\CG\Хоккеист\lab2\lab2CG\obj\Debug\lab2CG.csproj.CoreCompileInputs.cache
+C:\Desktop\Labs\CG\Хоккеист\lab2\lab2CG\obj\Debug\lab2CG.exe
+C:\Desktop\Labs\CG\Хоккеист\lab2\lab2CG\obj\Debug\lab2CG.pdb
+C:\Users\Павел\Downloads\Telegram Desktop\2\lab2\lab2CG\bin\Debug\lab2CG.exe.config
+C:\Users\Павел\Downloads\Telegram Desktop\2\lab2\lab2CG\bin\Debug\lab2CG.exe
+C:\Users\Павел\Downloads\Telegram Desktop\2\lab2\lab2CG\bin\Debug\lab2CG.pdb
+C:\Users\Павел\Downloads\Telegram Desktop\2\lab2\lab2CG\obj\Debug\lab2CG.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Downloads\Telegram Desktop\2\lab2\lab2CG\obj\Debug\lab2CG.Form1.resources
+C:\Users\Павел\Downloads\Telegram Desktop\2\lab2\lab2CG\obj\Debug\lab2CG.Properties.Resources.resources
+C:\Users\Павел\Downloads\Telegram Desktop\2\lab2\lab2CG\obj\Debug\lab2CG.csproj.GenerateResource.cache
+C:\Users\Павел\Downloads\Telegram Desktop\2\lab2\lab2CG\obj\Debug\lab2CG.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Downloads\Telegram Desktop\2\lab2\lab2CG\obj\Debug\lab2CG.exe
+C:\Users\Павел\Downloads\Telegram Desktop\2\lab2\lab2CG\obj\Debug\lab2CG.pdb

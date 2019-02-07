@@ -1,0 +1,39 @@
+C:\Users\Павел\Downloads\mai_labs-master\5sem\CG\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\Павел\Downloads\mai_labs-master\5sem\CG\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\Павел\Downloads\mai_labs-master\5sem\CG\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\Павел\Downloads\mai_labs-master\5sem\CG\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Downloads\mai_labs-master\5sem\CG\lab1\lab1\obj\Debug\lab1.Form1.resources
+C:\Users\Павел\Downloads\mai_labs-master\5sem\CG\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\Павел\Downloads\mai_labs-master\5sem\CG\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\Павел\Downloads\mai_labs-master\5sem\CG\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Downloads\mai_labs-master\5sem\CG\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\Павел\Downloads\mai_labs-master\5sem\CG\lab1\lab1\obj\Debug\lab1.pdb
+C:\Desktop\Labs\CG\mai_labs-master\5sem\CG\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Desktop\Labs\CG\mai_labs-master\5sem\CG\lab1\lab1\bin\Debug\lab1.exe
+C:\Desktop\Labs\CG\mai_labs-master\5sem\CG\lab1\lab1\bin\Debug\lab1.pdb
+C:\Desktop\Labs\CG\mai_labs-master\5sem\CG\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+C:\Desktop\Labs\CG\mai_labs-master\5sem\CG\lab1\lab1\obj\Debug\lab1.Form1.resources
+C:\Desktop\Labs\CG\mai_labs-master\5sem\CG\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Desktop\Labs\CG\mai_labs-master\5sem\CG\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Desktop\Labs\CG\mai_labs-master\5sem\CG\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Desktop\Labs\CG\mai_labs-master\5sem\CG\lab1\lab1\obj\Debug\lab1.exe
+C:\Desktop\Labs\CG\mai_labs-master\5sem\CG\lab1\lab1\obj\Debug\lab1.pdb
+C:\Desktop\Labs\CG\Хоккеист\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Desktop\Labs\CG\Хоккеист\lab1\lab1\bin\Debug\lab1.exe
+C:\Desktop\Labs\CG\Хоккеист\lab1\lab1\bin\Debug\lab1.pdb
+C:\Desktop\Labs\CG\Хоккеист\lab1\lab1\obj\Debug\lab1.Form1.resources
+C:\Desktop\Labs\CG\Хоккеист\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Desktop\Labs\CG\Хоккеист\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Desktop\Labs\CG\Хоккеист\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Desktop\Labs\CG\Хоккеист\lab1\lab1\obj\Debug\lab1.exe
+C:\Desktop\Labs\CG\Хоккеист\lab1\lab1\obj\Debug\lab1.pdb
+C:\Users\Павел\Downloads\Telegram Desktop\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\Павел\Downloads\Telegram Desktop\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\Павел\Downloads\Telegram Desktop\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\Павел\Downloads\Telegram Desktop\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Downloads\Telegram Desktop\lab1\lab1\obj\Debug\lab1.Form1.resources
+C:\Users\Павел\Downloads\Telegram Desktop\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\Павел\Downloads\Telegram Desktop\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\Павел\Downloads\Telegram Desktop\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Downloads\Telegram Desktop\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\Павел\Downloads\Telegram Desktop\lab1\lab1\obj\Debug\lab1.pdb

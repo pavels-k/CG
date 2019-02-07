@@ -1,0 +1,20 @@
+C:\Desktop\Labs\CG\pavel\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Desktop\Labs\CG\pavel\lab3\lab3\bin\Debug\lab3.exe
+C:\Desktop\Labs\CG\pavel\lab3\lab3\bin\Debug\lab3.pdb
+C:\Desktop\Labs\CG\pavel\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+C:\Desktop\Labs\CG\pavel\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Desktop\Labs\CG\pavel\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Desktop\Labs\CG\pavel\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Desktop\Labs\CG\pavel\lab3\lab3\obj\Debug\lab3.exe
+C:\Desktop\Labs\CG\pavel\lab3\lab3\obj\Debug\lab3.pdb
+C:\Desktop\Labs\CG\pavel\lab3\lab3\obj\Debug\lab3CG.Form1.resources
+C:\Users\Павел\Downloads\Telegram Desktop\lab3\bin\Debug\lab3.exe.config
+C:\Users\Павел\Downloads\Telegram Desktop\lab3\bin\Debug\lab3.exe
+C:\Users\Павел\Downloads\Telegram Desktop\lab3\bin\Debug\lab3.pdb
+C:\Users\Павел\Downloads\Telegram Desktop\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Downloads\Telegram Desktop\lab3\obj\Debug\lab3CG.Form1.resources
+C:\Users\Павел\Downloads\Telegram Desktop\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\Павел\Downloads\Telegram Desktop\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\Павел\Downloads\Telegram Desktop\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Downloads\Telegram Desktop\lab3\obj\Debug\lab3.exe
+C:\Users\Павел\Downloads\Telegram Desktop\lab3\obj\Debug\lab3.pdb
